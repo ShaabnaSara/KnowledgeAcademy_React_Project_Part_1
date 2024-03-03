@@ -1,0 +1,20 @@
+.Categories {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  overflow: auto;
+}
+
+.Categories img {
+  width: 100%;
+  /* Fix it for Responsive */
+}
+
+h2 {
+  padding-bottom: 20px;
+  color: #000;
+  font-family: "Plus Jakarta Sans";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
